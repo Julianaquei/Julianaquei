@@ -1,14 +1,5 @@
 <div align="center">
 ## Bem Vindo! Eu sou a Juliana Queiroz 
-
-## Meus Conhecimentos
-
-| Frontend | Backend | Ferramentas  | Desing  | Banco de Dados |
-|:---------|:--------|:------------ |:------- |:---------------|
-|HTML      |Node.js  |ReactNative.js|Figma    |MySQL           |
-|CSS       |         |Express.js    |Photoshop|                |
-|JavaScript|         |Bootstrap     |         |                |
-
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +10,15 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Meus Conhecimentos
+
+| Frontend | Backend | Ferramentas  | Desing  | Banco de Dados |
+|:---------|:--------|:------------ |:------- |:---------------|
+|HTML      |Node.js  |ReactNative.js|Figma    |MySQL           |
+|CSS       |         |Express.js    |Photoshop|                |
+|JavaScript|         |Bootstrap     |         |                |
+
+
 ## Meus status
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianaquei&layout=compact&theme=transparent&title_color=808080&text_color=808080&card_width=400px&height=700px" alt="Top Languages">
  <img src="https://github-readme-stats.vercel.app/api?username=Julianaquei&show_icons=true&theme=transparent&hide=contribs,prs&title_color=808080&icon_color=808080&text_color=808080&height=700px" alt="Juliana GitHub Stats">
