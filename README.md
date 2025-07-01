@@ -1,5 +1,17 @@
-## Hi there 👋
+<div align="center">## Bem Vindo! Eu sou a Juliana Queiroz 
 
+## Meus Conhecimentos
+
+| Frontend | Backend | Ferramentas  | Desing  | Banco de Dados |
+|:---------|:--------|:------------ |:------- |:---------------|
+|HTML      |Node.js  |ReactNative.js|Figma    |MySQL           |
+|CSS       |         |Express.js    |Photoshop|                |
+|JavaScript|         |Bootstrap     |         |                |
+
+
+## Meus status
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Julianaquei&show_icons=true&theme=transparent&hide=contribs,prs&title_color=808080&icon_color=808080&text_color=808080&height=700px" alt="Juliana GitHub Stats">
 <!--
 **Julianaquei/Julianaquei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
